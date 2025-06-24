@@ -13,6 +13,7 @@ h1 {
 .maincontentdiv {
   margin: auto;
   width: 75%;
-  background-color: rgba(255, 166, 0, 0.5);
+  background-color: rgba(255, 166, 0, 0.1);
   padding: 10%;
+  border-radius: 25px;
 }
