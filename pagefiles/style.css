@@ -1,13 +1,10 @@
 body {
   background-color: rgba(17, 21, 23, 1);
+  color: ffa500;
 }
 
 h1 {
   color: yellow;
-}
-
-p {
-  color: ffa500;
 }
 
 .maincontentdiv {
